@@ -33,7 +33,7 @@ sign languages.*
 
 ## Download Dataset
 
-The ISLTranslate dataset can be downloaded using the following [🔗 Download Link](https://1drv.ms/f/s!AuBOJ2hW9GimgblntP72D_agQdokdQ?e=ZbeA6y). The dataset directory structure is as follows:
+The ISLTranslate dataset can be downloaded using the following [🔗 Download Link](https://huggingface.co/datasets/Exploration-Lab/iSign). The dataset directory structure is as follows:
 
     .
     ├── data
